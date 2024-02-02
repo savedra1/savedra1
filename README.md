@@ -6,7 +6,7 @@ I'm a solutions-focused, creative developer with a keen interest in CICD, CLI To
 
 🔭 **Working on:** Some personal projects 📚
 
-💡 **Interests:** Golang, Rust, Django
+💡 **Interests:** Golang, Generative AI, Django
 
 💬 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/michael-savedra-3a459714)
 
