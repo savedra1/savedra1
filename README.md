@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**savedra1/savedra1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a solutions-focused, creative developer with a keen interest in CICD, CLI Tools, and Cloud infrastructure. I'm passionate about automating the boring struff and building software that makes a difference to people. Always keen to get involved in open source projects so don't hesitate to reach out!
 
-Here are some ideas to get you started:
+🌱 **Currently Learning:** [AWS Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Working on:** Some personal projects 📚
+
+💡 **Interests:** Golang, Rust, Django
+
+💬 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/michael-savedra-3a459714)
+
+## ⚡ Technologies & Tools
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+![Michael's Github stats](https://github-readme-stats.vercel.app/api?username=savedra1&show_icons=true&theme=radical)
+
+⭐️ From [savedra1](https://github.com/lukejcollins)
