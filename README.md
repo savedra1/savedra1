@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 I'm a solutions-focused, creative developer with a keen interest in CICD, CLI Tools, and Cloud infrastructure. I'm passionate about automating the boring stuff and building software that makes a difference to people. Always keen to get involved in open source projects so don't hesitate to reach out!
 
