@@ -4,7 +4,7 @@ I'm a solutions-focused, creative developer with a keen interest in CICD, CLI To
 
 🌱 **Currently Learning:** [AWS Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
-🔭 **Working on:** Personal Djando development projects 📚
+🔭 **Working on:** Personal Djando development projects 
 
 💡 **Interests:** Golang, Generative AI, Linux
 
