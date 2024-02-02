@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a solutions-focused, creative developer with a keen interest in CICD, CLI Tools, and Cloud infrastructure. I'm passionate about automating the boring struff and building software that makes a difference to people. Always keen to get involved in open source projects so don't hesitate to reach out!
+I'm a solutions-focused, creative developer with a keen interest in CICD, CLI Tools, and Cloud infrastructure. I'm passionate about automating the boring stuff and building software that makes a difference to people. Always keen to get involved in open source projects so don't hesitate to reach out!
 
 🌱 **Currently Learning:** [AWS Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
@@ -27,4 +27,4 @@ I'm a solutions-focused, creative developer with a keen interest in CICD, CLI To
 
 ![Michael's Github stats](https://github-readme-stats.vercel.app/api?username=savedra1&show_icons=true&theme=radical)
 
-⭐️ From [savedra1](https://github.com/lukejcollins)
+Anyone got the changelog to the linux prawn crackers??
