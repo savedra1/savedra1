@@ -1,12 +1,10 @@
 ### Hello 👋
 
-I'm a solutions-focused, creative developer with a keen interest in CICD, CLI Tools, and Cloud infrastructure. I'm passionate about automating the boring stuff and building software that makes a difference to people. Always keen to get involved in open source projects so don't hesitate to reach out!
+I'm a solutions-focused, creative engineer with a keen interest in CICD, CLI Tools, and Cloud infrastructure. I'm passionate about automating the boring stuff and building software that makes a difference to people. Always keen to get involved in open source projects so don't hesitate to reach out!
 
 🌱 **Currently Learning:** [AWS Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
-🔭 **Working on:** Personal Djando development projects 
-
-💡 **Interests:** Golang, Generative AI, Linux
+💡 **Interests:** Golang, Generative AI, Linux, Django
 
 💬 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/michael-savedra-3a459714)
 
@@ -27,4 +25,4 @@ I'm a solutions-focused, creative developer with a keen interest in CICD, CLI To
 
 ![Michael's Github stats](https://github-readme-stats.vercel.app/api?username=savedra1&show_icons=true&theme=radical)
 
-Anyone got the changelog to the linux prawn crackers??
+Anyone got the changelog to the Linux prawn crackers??
