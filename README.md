@@ -31,7 +31,7 @@
 </details>
 
 <details>
-  <summary><b>🏛️ &nbsp;Favourite infra</b></summary>
+  <summary><b>🏛️ &nbsp;Infra</b></summary>
   <br/>
 
 [![AWS](https://img.shields.io/badge/--FF9900?logo=amazon&logoColor=ffffff)](https://golang.org/)&nbsp;
@@ -41,7 +41,7 @@
 </details>
 
 <details>
-  <summary><b>🏠 &nbsp;Preferred OS</b></summary>
+  <summary><b>🏠 &nbsp;OS</b></summary>
   <br/>
 
 [![Linux](https://img.shields.io/badge/--FCC624?logo=linux&logoColor=ffffff)](https://golang.org/)&nbsp;
