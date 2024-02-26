@@ -21,7 +21,7 @@ I'm a solutions-focused, creative engineer with a keen interest in CICD, CLI Too
 ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 
 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=savedra1&theme=blue-green)](https://github.com/savedra1/github-readme-stats) ![Michael's Github stats](https://github-readme-stats.vercel.app/api?username=savedra1&show_icons=true&theme=radical)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=savedra1&theme=nord)](https://github.com/savedra1/github-readme-stats) ![stats](https://github-readme-stats.vercel.app/api?username=savedra1&show_icons=true&theme=nord)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/savedra1/savedra1)
 ![pv](https://pageview.vercel.app/?github_user=savedra1)
