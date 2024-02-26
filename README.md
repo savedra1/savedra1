@@ -9,21 +9,23 @@ I'm a solutions-focused, creative engineer with a keen interest in CICD, CLI Too
 💬 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/michael-savedra-3a459714)
 
 ### Tech stack
-
-[![PyPi](https://badgen.net/badge/icon/pypi?icon=pypi&label)](https://https://pypi.org/)
-![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
 [![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
-[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
-[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
-[![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)](https://https://jira.com/)
-[![AWS](https://badgen.net/badge/icon/aws?icon=aws&label)](https://aws.amazon.com/)
-[![terraform](https://badgen.net/badge/icon/terraform?icon=terraform&label)](https://www.terraform.io/)
+[![Python](https://img.shields.io/badge/--3776AB?logo=Python&logoColor=ffffff)](https://golang.org/)
+[![shell](https://img.shields.io/badge/--4EAA25?logo=gnubash&logoColor=ffffff)](https://golang.org/)
+
+[![Docker](https://img.shields.io/badge/--2496ED?logo=docker&logoColor=ffffff)](https://golang.org/)
+[![Terraform](https://img.shields.io/badge/--844FBA?logo=terraform&logoColor=ffffff)](https://golang.org/)
+[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](https://golang.org/)
+
+[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://golang.org/)
+[![Jira](https://img.shields.io/badge/--0052CC?logo=jirasoftware&logoColor=ffffff)](https://golang.org/)
+[![AWS](https://img.shields.io/badge/--FF9900?logo=amazon&logoColor=ffffff)](https://golang.org/)
 
 
 ### os
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
-
+[![Linux](https://img.shields.io/badge/--FCC624?logo=linux&logoColor=ffffff)](https://golang.org/)
+[![NixOs](https://img.shields.io/badge/--5277C3?logo=NixOS&logoColor=ffffff)](https://golang.org/)
+[![Debian](https://img.shields.io/badge/--A81D33?logo=debian&logoColor=ffffff)](https://golang.org/)
 
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=savedra1&theme=nord)](https://github.com/savedra1/github-readme-stats) ![stats](https://github-readme-stats.vercel.app/api?username=savedra1&show_icons=true&theme=nord)
 
