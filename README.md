@@ -5,6 +5,7 @@
 - Work with CICD, process automation and cloud infrastructure day-to-day 🧰
 - Currently researching software architecture, devops, and generative AI 🔭
 - Coding since 2019 with 4+ years of enterprise experience 🏗️
+- Passionate about open source 💙
 
 💬 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/michael-savedra-3a459714)
 
