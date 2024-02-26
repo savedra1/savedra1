@@ -8,7 +8,7 @@ I'm a solutions-focused, creative engineer with a keen interest in CICD, CLI Too
 
 💬 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/michael-savedra-3a459714)
 
-## Tech stack
+### Tech stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -20,10 +20,13 @@ I'm a solutions-focused, creative engineer with a keen interest in CICD, CLI Too
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 
-![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
-![pv](https://pageview.vercel.app/?github_user=mopig)
+### Portfolio
+
+> *pending...*
 
 ![Michael's Github stats](https://github-readme-stats.vercel.app/api?username=savedra1&show_icons=true&theme=radical)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/savedra1/savedra1)
+![pv](https://pageview.vercel.app/?github_user=mopig)
 
 Anyone got the changelog to the Linux prawn crackers??
