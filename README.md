@@ -1,5 +1,5 @@
 
-## :space_invader: &nbsp;About Me
+## :space_invader: About Me
 
 - Currently working as an Engineer at [OVO](https://www.ovoenergy.com/) 🏠
 - Work with CICD, process automation and cloud infrastructure day-to-day 🧰
@@ -8,7 +8,7 @@
 
 💬 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/michael-savedra-3a459714)
 
-## Tech stack
+## 🧪 Tech stack
 <details>
   <summary><b>:computer: &nbsp;Main langauges</b></summary>
   <br/>
