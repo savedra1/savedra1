@@ -6,7 +6,7 @@
 - Currently working as an Engineer at [OVO](https://www.ovoenergy.com/) 🏠
 - Work with CICD, process automation and cloud infrastructure day-to-day 🧰
 - Currently researching software architecture, devops, and generative AI 🔭
-- Coding since 2020 with 4+ years of experience in enterprise wide development 🏗️
+- Coding since 2019 with 4+ years of experience in enterprise wide development 🏗️
 
 💬 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/michael-savedra-3a459714)
 
