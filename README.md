@@ -8,6 +8,7 @@
 
 💬 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/michael-savedra-3a459714)
 
+
 ## 🧪 Tech stack
 <details>
   <summary><b>:computer: &nbsp;Main langauges</b></summary>
