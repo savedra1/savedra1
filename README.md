@@ -1,7 +1,5 @@
-## Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-
-### :space_invader: &nbsp;About Me
+## :space_invader: &nbsp;About Me
 
 - Currently working as an Engineer at [OVO](https://www.ovoenergy.com/) 🏠
 - Work with CICD, process automation and cloud infrastructure day-to-day 🧰
