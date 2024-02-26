@@ -19,6 +19,8 @@ I'm a solutions-focused, creative engineer with a keen interest in CICD, CLI Too
 [![AWS](https://badgen.net/badge/icon/aws?icon=aws&label)](https://aws.amazon.com/)
 [![terraform](https://badgen.net/badge/icon/terraform?icon=terraform&label)](https://www.terraform.io/)
 
+
+### os
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 
