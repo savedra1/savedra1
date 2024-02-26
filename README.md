@@ -12,14 +12,14 @@ I'm a solutions-focused, creative engineer with a keen interest in CICD, CLI Too
 
 [![PyPi](https://badgen.net/badge/icon/pypi?icon=pypi&label)](https://https://pypi.org/)
 ![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
-
+[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
+[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
 [![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)](https://https://jira.com/)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
+[![AWS](https://badgen.net/badge/icon/aws?icon=aws&label)](https://aws.amazon.com/)
+[![AWS](https://badgen.net/badge/icon/terraform?icon=terraform)](https://www.terraform.io/)
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
 ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 
 
