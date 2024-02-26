@@ -20,9 +20,8 @@ I'm a solutions-focused, creative engineer with a keen interest in CICD, CLI Too
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 
-### Portfolio
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=savedra1&theme=blue-green)](https://github.com/savedra1/github-readme-stats)
 
-> *pending...*
 
 ![Michael's Github stats](https://github-readme-stats.vercel.app/api?username=savedra1&show_icons=true&theme=radical)
 
