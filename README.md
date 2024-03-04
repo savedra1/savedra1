@@ -53,7 +53,7 @@
 
 ## 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/savedra1/savedra1) ![pv](https://pageview.vercel.app/?github_user=savedra1)
+![GitHub last commit](https://img.shields.io/github/last-commit/savedra1) ![pv](https://pageview.vercel.app/?github_user=savedra1)
 
   <br/>
     <p align="center">
