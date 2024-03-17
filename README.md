@@ -47,7 +47,6 @@
 
 [![Linux](https://img.shields.io/badge/--FCC624?logo=linux&logoColor=ffffff)](https://golang.org/)&nbsp;
 [![NixOs](https://img.shields.io/badge/--5277C3?logo=NixOS&logoColor=ffffff)](https://golang.org/)
-[![Debian](https://img.shields.io/badge/--A81D33?logo=debian&logoColor=ffffff)](https://golang.org/)
 
 </details>
 
