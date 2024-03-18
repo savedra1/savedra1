@@ -12,7 +12,7 @@
 
 ## 🧪 Tech stack
 <details>
-  <summary><b>:computer: &nbsp;Main langauges</b></summary>
+  <summary><b>:computer: &nbsp;Main language</b></summary>
   <br/>
   
 [![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)&nbsp;
