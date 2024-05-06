@@ -7,7 +7,7 @@
 - Coding since 2019 with 4+ years of enterprise experience 🏗️
 - Passionate about open source 💙
 
-💬 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/michael-savedra-3a459714)
+💬 **Let's Connect:** [LinkedIn](www.linkedin.com/in/michael-savedra-3a4597144)
 
 
 ## 🧪 Tech stack
