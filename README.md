@@ -1,14 +1,10 @@
 
 ## :space_invader: About Me
 
-- Currently working as an Engineer at [OVO](https://www.ovoenergy.com/) 🏠
-- Work with CICD, process automation and cloud infrastructure day-to-day 🧰
-- Currently researching software architecture, devops, and generative AI 🔭
+- Currently working as a Platform Engineer 🏠
+- Currently researching cloud technologies and container orchestration 🔭
 - Coding since 2019 with 4+ years of enterprise experience 🏗️
 - Passionate about open source 💙
-
-💬 **Let's Connect:** [LinkedIn](www.linkedin.com/in/michael-savedra-3a4597144)
-
 
 ## 🧪 Tech stack
 <details>
